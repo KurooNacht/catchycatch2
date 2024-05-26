@@ -1,0 +1,35 @@
+{
+  "behavior": {
+    "Sleeping": false,
+    "Catching": true,
+    "Spamming": true
+  },
+  "incense": {
+    "IncenseMode": true,
+    "AutoIncenseBuy": false,
+    "IncenseChannel": ""
+  },
+  "spamming": {
+    "SpamSpeed": "2000",
+    "SpamChannel": ""
+  },
+  "logging": {
+    "LogCatches": true,
+    "LowIVThreshold": "10.00",
+    "HighIVThreshold": "85.00",
+    "LogWebhook": "https://discord.com/api/webhooks/1244360010784575551/mXKDaffY1J0CCwt87A_zIN39xVcaJdfCzHErrHJFpLtqqQ5UTzXtr7ykj0KSx2No-YuK"
+  },
+  "ownership": {
+    "OwnerIDs": ["1244358149582880769", "..."],
+    "CommandPrefix": "!"
+  },
+  "globalSettings": {
+    "GlobalCatch": false,
+    "BlacklistedGuilds": ["716390832034414685", "..."]
+  },
+  "shinyHunting": {
+    "HuntPokemons": ["rayquaza", "aerodactyl", "walking wake"],
+    "HuntToken": "HuntToken"
+  },
+  "debug": true
+}
